@@ -24,7 +24,7 @@ const requests = {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter  basename="/lab191">
       <Routes>
         <Route path="/" element={<Browse />} />
         <Route path="/search" element={<Search />} />
