@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 62px;
+  z-index: 9999;
+}
+
+.navbar svg,
+.navbar h4 {
+  margin: 20px;
+}
+
+.onChangeScrollColor {
+  background-color: #000;
+}
+
+.navbar h4 {
+  color: red;
+}

@@ -1,0 +1,16 @@
+.movieDetail {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.movieDetail iframe,
+.movieDetail img {
+  margin: 40px;
+  width: 90%;
+  height: 100%;
+}
+
+.description {
+  color: #fff;
+  margin: 40px;
+}

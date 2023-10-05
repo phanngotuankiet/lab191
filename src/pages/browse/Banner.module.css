@@ -1,0 +1,42 @@
+.banner h2,
+.banner p {
+  color: #fff;
+  width: 300px;
+  line-height: 24px;
+  text-align: justify;
+}
+
+.banner img {
+  position: relative;
+  margin: -82px 0 0 0;
+  z-index: -1;
+  height: 468px;
+}
+
+.name {
+  position: absolute;
+  top: 15%;
+  left: 20px;
+}
+
+.bannerButtons {
+  position: absolute;
+  top: 26%;
+  left: 20px;
+  margin: -16px 0 0 0;
+}
+
+.bannerButtons button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  margin: 0 10px 0 0;
+  opacity: 0.6;
+}
+
+.overview {
+  position: absolute;
+  top: 27%;
+  left: 20px;
+}

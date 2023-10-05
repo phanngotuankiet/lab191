@@ -1,0 +1,10 @@
+.movie {
+  cursor: pointer;
+  margin: 0 4px;
+}
+
+.movie:hover {
+  scale: 1.08;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.2s;
+}

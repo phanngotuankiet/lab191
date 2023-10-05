@@ -1,0 +1,14 @@
+.resultList {
+  color: #000;
+  border: #000 solid 1px;
+  background-color: #fff;
+  margin: 2px;
+  min-width: 126px;
+  max-width: 126px;
+  height: 164px;
+  text-align: center;
+}
+
+.resultList p {
+  margin: -104px 0 104px 0;
+}
